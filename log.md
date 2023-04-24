@@ -6,4 +6,4 @@
 
 **Thoughts:** Understanding that we solve the right side of the expression first. Figured out that breaking the expression on the right into parts is easier to understand how complex code works.
 
-**Link to work:** [https://www.bilitystrengthtraining.com]
+**Link to work:** build website with HUGO [https://www.abilitystrengthtraining.com]
